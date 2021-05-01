@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/SimpleInheritance/Graduated.h
+
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/SimpleInheritance/Human.h
+iostream
+-
+
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/SimpleInheritance/MultiProgrammer.h
+
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/SimpleInheritance/Programming.h
+
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/SimpleInheritance/Student.h
+
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/SimpleInheritance/bachelor.h
+
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/SimpleInheritance/main.cpp
+Human.h
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/SimpleInheritance/Human.h
+Student.h
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/SimpleInheritance/Student.h
+bachelor.h
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/SimpleInheritance/bachelor.h
+Graduated.h
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/SimpleInheritance/Graduated.h
+worker.h
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/SimpleInheritance/worker.h
+Programming.h
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/SimpleInheritance/Programming.h
+MultiProgrammer.h
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/SimpleInheritance/MultiProgrammer.h
+
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/SimpleInheritance/worker.h
+
